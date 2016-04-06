@@ -11,7 +11,7 @@
 /*
 var toc_config = {
 	url: 'http://www.bloggersstand.com',
-	containerId: 'table-of-content',
+	containerId: 'bsd-sitemap',
 	showNew: 15,
 	newText: ' <strong style="font-weight:normal;font-style:normal;color:#fff;font-size:11px;background:#5c5a78;padding:1px 6px 3px 6px;line-height:normal;float:right;border-radius:3px;">New!</strong>',
 	sortAlphabetically: {
